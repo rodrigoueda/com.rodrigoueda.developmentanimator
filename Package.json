@@ -1,0 +1,7 @@
+{
+    "name": "com.rodrigoueda.developmentanimator",
+    "displayName": "DevelopmentAnimator",
+    "version": "0.1.0",
+    "unity": "2019.4",
+    "description": "Custom window to create a development animator containing only selected animations clips from the original object animator."
+}
